@@ -1,2 +1,1 @@
-
-Complete Ruby on Rails developer course
+I am a Ruby on rails developer
